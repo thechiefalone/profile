@@ -1,1 +1,8 @@
 https://www.youtube.com/watch?v=HVsySz-h9r4
+
+to upload git local to repository
+
+git remote -v
+git commit -m "message"
+git pull origin master 
+git push origin master
