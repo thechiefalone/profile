@@ -2,7 +2,9 @@ https://www.youtube.com/watch?v=HVsySz-h9r4
 
 to upload git local to repository
 
-git remote -v
+git status
+git add -A
 git commit -m "message"
-git pull origin master 
+git remote -v
 git push origin master
+to download -- git pull origin master 
